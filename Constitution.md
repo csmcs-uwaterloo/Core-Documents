@@ -26,6 +26,7 @@ The CSM shall be run by a cabinet consisting of the following executive officers
 - The Finance Minister
 - The Truth & Propaganda Minister
 - The Research Minister
+
 The Prime Minister and Finance Minister shall act as the President and VPF of the CSM respectively wherever such roles are defined by MathSoc. The Truth & Propaganda Minister may also be referred to as the T&P Minister where brevity is desired.
 
 ## Duties of the Ministers
