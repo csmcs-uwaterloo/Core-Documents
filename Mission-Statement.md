@@ -1,4 +1,4 @@
-**Extended Purpose of the CSM**
+**Mission Statement**
 
 The afternoon started with a conversation among 4 strangers about the appli- cations of mathematics to neuroscience, and ended with a common consensus among the execs of CSM that the richness of mathematical structures should be applied to real world scenarios.
 
