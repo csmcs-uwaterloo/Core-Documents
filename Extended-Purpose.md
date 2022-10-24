@@ -1,0 +1,11 @@
+**Extended Purpose of the CSM**
+
+The afternoon started with a conversation among 4 strangers about the appli- cations of mathematics to neuroscience, and ended with a common consensus among the execs of CSM that the richness of mathematical structures should be applied to real world scenarios.
+
+Pure mathematics is all about creating frameworks for thinking about things, and then studying the richness of those frameworks by deriving theorems. Thus, we feel that it’s worth using the existing well-crafted structures to model dy- namical systems in nature. Category theory, formal automata, semigroups, petri nets, ZX-calculus, and graph rewriting are few algebraic structures we’re interested in applying to the real world. Thus, CSM will ensure collabora- tion with undergraduate students outside the mathematics faculty on interdis- ciplinary long-term projects, forming the bridge between students studying the real world and those who study the abstract. Neuroscience, general relativity, quantum field theory, natural selection, cognition, linguistics, chemical reaction networks, molecular computing, and molecular biology are the current research groups we have in mind for CSM.
+
+Also, this centre hopes to fill a major gap in the research journey of an under- graduate student: despite the numerous opportunities to work with world-class professors, we feel that students don’t have enough avenues and motivation to continue their research after their respective research terms. Four months is enough to get one started on a problem; however, according to us, being part of an interactive research group with other undergraduates over a long-term, under the guidance of a professor, is the most fruitful approach.
+
+In a nutshell, we think that CSM is like the ‘Sedra student design centre’, but instead for the mathematical study of complex systems, where different design teams correspond to different research groups.
+
+Thus, the purpose of the centre is to create an environment for students to explore the intersection of pure mathematics and other fields by col- laborating with others in a research group, and to foster the interest of using algebraic and computational structures in pure mathematics to understand complex systems among non-math majors.
