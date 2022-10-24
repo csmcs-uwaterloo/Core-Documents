@@ -10,7 +10,7 @@ There shall exist a unique organisation which recognises this document as its co
 The CSM shall be affiliated with MathSoc and the University’s Mathematical Studies program, so long as such parties agree to be affiliated with the CSM.
 
 # Purpose
-The purpose of the centre is to create an environment for students to explore the intersection of mathematics and other fields by collaborating with others in a research group, and to foster the interest of using algebraic and computational structures in mathematics to understand complex systems among non-math majors.
+The purpose of the CSM is to create an environment for students to explore the intersection of mathematics and other fields by collaborating with others in a research group, and to foster the interest of using algebraic and computational structures in mathematics to understand complex systems among non-math majors.
 
 The CSM will ensure collaboration with undergraduate students outside the mathematics faculty on interdisciplinary long-term projects, forming the bridge between students studying the real world and those who study the abstract. Neuroscience, general relativity, quantum field theory, natural selection, cognition, linguistics, chemical reaction networks, molecular computing, and molecular biology are the current research groups we have in mind for CSM.
 
