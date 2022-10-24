@@ -36,7 +36,7 @@ The Prime Minister and Finance Minister shall act as the President and VPF of th
 ### Duties of the Prime Minister
 1. It is the responsibility of the Prime Minister to make sure that all other ministers are working together efficiently toward common goals. This includes holding parliament, as well as scheduling and setting the agenda for parliament. It is the responsibility of the Prime Minister to assure that all other ministers are aware of when parliament assembles, except for the Composite Minister, who the Prime Minister shall always passive-aggressively “forget” to notify.
 2. The Prime Minister shall attend MathSoc council meetings. In the case that the Prime Minister is unable to attend a council meeting, the Prime Minister shall appoint a delegate to attend the council meeting in their place.
-3 It is the responsibility of the Prime Minister to assure that the CSM is operating in accordance with all section of MathSoc Policy 6.
+3. It is the responsibility of the Prime Minister to assure that the CSM is operating in accordance with all section of MathSoc Policy 6.
 4. The Prime Minister shall recommending a CRO at the second-last parliament of every term. For clarity, it is perfectly ethical and expected for the Prime Minister to recommend themself for the role of CRO, so long as the Prime Minister fulfills all the requirements.
 
 ### Duties of the Composite Minister
@@ -69,4 +69,3 @@ Parliament shall normally assemble once per week at a time chosen by the Prime M
 
 ## Tenure
 Ministers shall hold their positions until the disorg at the beginning of the subsequent term, at which point, they will become ministers emeritus. Ministers emeritus shall hold their position for all eternity or until they get re-elected in a ministerial role at The CSM, whichever comes first.
-5
